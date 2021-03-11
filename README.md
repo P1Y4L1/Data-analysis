@@ -3,7 +3,7 @@
 
 
 Feel free to use my codes to create models on your own data set based on linear regression or other such things 
-Replace the csv file named r.csv with your own file name and variables.
+Replace the csv file named r.csv with your own file name and variables. The original file is also attached.
 
 Libraries needed - caTools
 
